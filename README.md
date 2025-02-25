@@ -1,6 +1,6 @@
 # commitgpt
 
-Automatically generate commit messages using ChatGPT.
+Hey Prachi, this repository automatically generates commit messages using ChatGPT unconditionally.
 
 ![commitgpt](https://user-images.githubusercontent.com/3975738/205517867-1e7533ae-a8e7-4c0d-afb6-d259635f3f9d.gif)
 
